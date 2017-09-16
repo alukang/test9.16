@@ -10,6 +10,7 @@ int main()
     cout<<"ni hao"<<endl;
     cout <<"ren le"<<endl;
     cout <<"water-------------水-------------"<<endl;
+    cout <<"-------------水+++++===-------------"<<endl;
     cout<<"this is diff"<<endl;
     return 0;
 }
