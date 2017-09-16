@@ -8,6 +8,7 @@ int main()
 {
     cout<<"hello world"<<endl;
     cout<<"ni hao"<<endl;
+    cout <<"ren le"<<endl;
     cout <<"-------------水-------------"<<endl;
     return 0;
 }
