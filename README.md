@@ -13,4 +13,8 @@
 - 打开文件,找到冲突,修改后
 - git pull
 - 提交
+## 分支操作
+- git branch -a // 查看
+- git checkout branch1 //切换分支
+- 修改 后   git push -u origin branch1
 
